@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Organium were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://caremeal.vn
+Data file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-content-import-file_2020-11-29__20-26-57.xml
+Widget file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-29__20-26-57.json
+Customizer file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-29__20-26-57.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Page Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Image - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Featured Posts (Organium Theme) - Recent Posts - Widget already exists
+Archives - Archive - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Recipes Sidebar : 
+
+Search - No Title - Widget already exists
+Recipes Categories (Organium Theme) - Categories - Widget already exists
+Recent Recipes (Organium Theme) - Recent Recipes - Widget already exists
+Image - Healthy and Tasty - Widget already exists
+
+Side Panel Sidebar : 
+
+Contacts Widget (Organium Theme) - No Title - Widget already exists
+Gallery - No Title - Widget already exists
+Contacts Widget (Organium Theme) - Contact Us - Widget already exists
+Contacts Widget (Organium Theme) - Follow Us - Widget already exists
+
+Footer Sidebar (Style 1) : 
+
+Custom HTML - Get Exclusive Access &amp; 10%&nbsp;Off - Imported
+
+Footer Sidebar (Style 2) : 
+
+Contacts Widget (Organium Theme) - No Title - Widget already exists
+Navigation Menu - Main Pages - Widget already exists
+Custom HTML - Get Exclusive Access &amp; 10% Off - Widget already exists
+
+Footer Sidebar (Style 3) : 
+
+Contacts Widget (Organium Theme) - No Title - Widget already exists
+Contacts Widget (Organium Theme) - Office 1 - Widget already exists
+Contacts Widget (Organium Theme) - Office 2 - Widget already exists
+Text - Payments Methods - Widget already exists
+
+Footer Sidebar (Style 4) : 
+
+Contacts Widget (Organium Theme) - No Title - Widget already exists
+Contacts Widget (Organium Theme) - Contact Us - Widget already exists
+Text - Payments Methods - Widget already exists
+
+Footer Sidebar (Style 5) : 
+
+Contacts Widget (Organium Theme) - No Title - Widget already exists
+Navigation Menu - Main Pages - Widget already exists
+Navigation Menu - Customer Service - Widget already exists
+Contacts Widget (Organium Theme) - Follow Us - Widget already exists
+
+sidebar-woocommerce : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Categories - Site does not support widget
+woocommerce_price_filter - Filter by Price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+Image - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

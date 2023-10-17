@@ -1,0 +1,1 @@
+"use strict";jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/image-carousel.default",function(e){let n=e.find(".swiper-container");n.params.watchSlidesProgress=!0,n.params.watchSlidesVisibility=!0,n.reInit()})});

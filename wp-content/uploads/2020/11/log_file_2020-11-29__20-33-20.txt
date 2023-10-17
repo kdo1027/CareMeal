@@ -1,0 +1,995 @@
+
+---Downloaded files---
+The import files for: Organium were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://caremeal.vn
+Data file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-content-import-file_2020-11-29__20-33-20.xml
+Widget file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-29__20-33-20.json
+Customizer file = /home/caremeal.vn/public_html/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-29__20-33-20.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import recipes-category Breakfast
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import portfolio-category Diet
+[WARNING] Failed to import recipes-category Dinner
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import recipes-category Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import portfolio-category Fresh
+[WARNING] Failed to import portfolio-category Fruits
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import recipes-category Lunch
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import recipes-category Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import portfolio-category Organic
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_min-weight 250 kg
+[WARNING] Failed to import pa_min-weight 300 kg
+[WARNING] Failed to import pa_country-of-origin Agro farm
+[WARNING] Failed to import product_tag Beef
+[WARNING] Failed to import product_tag Book
+[WARNING] Failed to import product_cat Books
+[WARNING] Failed to import product_tag Chicken
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Food
+[WARNING] Failed to import product_tag Fowl
+[WARNING] Failed to import product_cat Fruits
+[WARNING] Failed to import product_tag Fruits
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Health
+[WARNING] Failed to import pa_check Healthy
+[WARNING] Failed to import product_cat Meat
+[WARNING] Failed to import product_tag Meat
+[WARNING] Failed to import pa_check No
+[WARNING] Failed to import pa_quality Ordinary
+[WARNING] Failed to import pa_quality Organic
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_country-of-origin Pakistan
+[WARNING] Failed to import product_tag Pork
+[WARNING] Failed to import product_tag Program
+[WARNING] Failed to import product_cat Programs
+[WARNING] Failed to import product_cat Promo
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Shop Demo
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Spice
+[WARNING] Failed to import product_tag Spice
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag Vegan
+[WARNING] Failed to import product_cat Vegan Products
+[WARNING] Failed to import product_cat Vegetables
+[WARNING] Failed to import product_tag Vegetables
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Chuyên mục - Categories - Imported
+Ảnh - No Title - Imported
+
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Chuyên mục - Categories - Imported
+Featured Posts (Organium Theme) - Recent Posts - Imported
+Lưu trữ - Archive - Imported
+Mây Thẻ - Tags - Imported
+
+Recipes Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Recipes Categories (Organium Theme) - Categories - Imported
+Recent Recipes (Organium Theme) - Recent Recipes - Imported
+Ảnh - Healthy and Tasty - Imported
+
+Side Panel Sidebar : 
+
+Contacts Widget (Organium Theme) - No Title - Imported
+Gallery ảnh - No Title - Imported
+Contacts Widget (Organium Theme) - Contact Us - Imported
+Contacts Widget (Organium Theme) - Follow Us - Imported
+
+Footer Sidebar (Style 1) : 
+
+HTML Tùy chỉnh - Get Exclusive Access &amp; 10%&nbsp;Off - Imported
+
+Footer Sidebar (Style 2) : 
+
+Contacts Widget (Organium Theme) - No Title - Imported
+Thanh điều hướng - Main Pages - Imported
+HTML Tùy chỉnh - Get Exclusive Access &amp; 10% Off - Imported
+
+Footer Sidebar (Style 3) : 
+
+Contacts Widget (Organium Theme) - No Title - Imported
+Contacts Widget (Organium Theme) - Office 1 - Imported
+Contacts Widget (Organium Theme) - Office 2 - Imported
+Văn bản - Payments Methods - Imported
+
+Footer Sidebar (Style 4) : 
+
+Contacts Widget (Organium Theme) - No Title - Imported
+Contacts Widget (Organium Theme) - Contact Us - Imported
+Văn bản - Payments Methods - Imported
+
+Footer Sidebar (Style 5) : 
+
+Contacts Widget (Organium Theme) - No Title - Imported
+Thanh điều hướng - Main Pages - Imported
+Thanh điều hướng - Customer Service - Imported
+Contacts Widget (Organium Theme) - Follow Us - Imported
+
+sidebar-woocommerce : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Categories - Site does not support widget
+woocommerce_price_filter - Filter by Price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+Ảnh - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

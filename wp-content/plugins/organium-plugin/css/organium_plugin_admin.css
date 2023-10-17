@@ -1,0 +1,8 @@
+body div.sc-wrap,
+body div.sc-menu {
+    display: none;
+}
+
+.elementor-label-inline>.elementor-control-content>.elementor-control-field>.elementor-control-input-wrapper {
+    min-width: 135px;
+}
